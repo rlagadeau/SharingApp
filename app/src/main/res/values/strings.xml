@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharingApp</string>
+    <string name="share_button_text">Share</string>
+    <string name="select_button_text">Select</string>
+    <string name="values_of_types">Text comes here</string>
+    <string-array name="share_spinner">
+        <item>Apple</item>
+        <item>Facebook</item>
+        <item>Google</item>
+        <item>Microsoft</item>
+    </string-array>
+</resources>
